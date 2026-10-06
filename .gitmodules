@@ -1,3 +1,0 @@
-[submodule "CVE-2026-33439-REAL-EXPLOIT"]
-	path = CVE-2026-33439-REAL-EXPLOIT
-	url = https://github.com/TheMalwareGuardian/CVE-2026-33439.git
